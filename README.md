@@ -7,7 +7,7 @@ A demo project that solve FizzBuzz kata by implementing Unit Test using XCTest f
 
 
 ### Requirements
-- iOS 11.0+ 
+- iOS 12.0+ 
 - Xcode 10+
 - Swift 4.2+
 
